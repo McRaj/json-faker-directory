@@ -1,10 +1,10 @@
 {
-  "profiles":[
-    {"id": 1, "image":"", "name": "Honda NSX", "make": "Honda", "model": "NSX", "year": 2018, "available": "In Dealership"},
-    {"id": 2, "image":"", "name": "Nissan GTR", "make": "Nissan", "model": "GTR", "year": 2009, "available": "In Dealership"},
-    {"id": 3, "image":"", "name": "Lexus LFA", "make": "Lexus", "model": "LFA", "year": 2008, "available": "In Dealership"},
-    {"id": 4, "image":"", "name": "Dodge Viper ACR", "make": "Dodge", "model": "Viper", "year": 2017, "available": "In Dealership"},
-    {"id": 5, "image":"", "name": "Chevrolet Corvette z06", "make": "Chevrolet", "model": "Corvette", "year": 2006, "available": "In Dealership"}
-    {"id": 6, "image":"", "name": "Ford GT", "make": "Ford", "model": "GT", "year": 2017, "available": "In Dealership"}
+  "cars":[
+    {"id": 1, "image":"none", "name": "Honda NSX", "make": "Honda", "model": "NSX", "year": 2018, "available": "In Dealership"},
+    {"id": 2, "image":"none", "name": "Nissan GTR", "make": "Nissan", "model": "GTR", "year": 2009, "available": "In Dealership"},
+    {"id": 3, "image":"none", "name": "Lexus LFA", "make": "Lexus", "model": "LFA", "year": 2008, "available": "In Dealership"},
+    {"id": 4, "image":"none", "name": "Dodge Viper ACR", "make": "Dodge", "model": "Viper", "year": 2017, "available": "In Dealership"},
+    {"id": 5, "image":"none", "name": "Chevrolet Corvette z06", "make": "Chevrolet", "model": "Corvette", "year": 2006, "available": "In Dealership"},
+    {"id": 6, "image":"none", "name": "Ford GT", "make": "Ford", "model": "GT", "year": 2017, "available": "In Dealership"}
   ]
 }
